@@ -2,8 +2,6 @@
 
 > 💻 Software Engineer | 🧠 AI Engineer | 🔬 Researcher | 🏀 Ex-Pro Athlete | 🏋️ Lifelong Learner | 🧩 Problem Solver
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mralinp&show_icons=true&theme=radical)
-
 ---
 
 I'm a **Research and Development Engineer** with **6+ years of experience**, working at the intersection of **AI**, **Software**, and **Systems Engineering** — and I don’t just lift code, I lift **real weights** too.
