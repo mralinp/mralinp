@@ -9,13 +9,13 @@ I'm a **Research and Development Engineer** with **6+ years of experience**, wor
 <p align="center">
   <a href="https://github.com/mralinp#gh-light-mode-only">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=mralinp&show_icons=true&theme=default"
+      src="https://github-readme-stats.vercel.app/api?username=mralinp&show_icons=true&include_all_commits=true&theme=default"
       alt="GitHub Stats"
     />
   </a>
   <a href="https://github.com/mralinp#gh-dark-mode-only">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=mralinp&show_icons=true&theme=github_dark"
+      src="https://github-readme-stats.vercel.app/api?username=mralinp&show_icons=true&include_all_commits=true&theme=github_dark"
       alt="GitHub Stats"
     />
   </a>
