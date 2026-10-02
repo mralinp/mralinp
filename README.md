@@ -6,6 +6,21 @@
 
 I'm a **Research and Development Engineer** with **6+ years of experience**, working at the intersection of **AI**, **Software**, and **Systems Engineering** — and I don’t just lift code, I lift **real weights** too.
 
+<p align="center">
+  <a href="https://github.com/mralinp#gh-light-mode-only">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=mralinp&show_icons=true&theme=default"
+      alt="GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/mralinp#gh-dark-mode-only">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=mralinp&show_icons=true&theme=github_dark"
+      alt="GitHub Stats"
+    />
+  </a>
+</p>
+
 ## 🧠 Current Focus
 
 🔬 **Medical Image Processing**  
