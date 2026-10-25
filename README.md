@@ -35,7 +35,6 @@ Born in **Pariz**, a village high in the mountains. Grew up next to a mechanic's
 | 🔲 [**mojo-spartan6-projects**](https://github.com/mralinp/mojo-spartan6-projects) | Verilog on a Spartan-6 FPGA, built and flashed from a Mac. |
 | 📄 [**latex-academic-template**](https://github.com/mralinp/latex-academic-template) | `create-react-app` for LaTeX: one command, Dockerized, no TeX install. |
 | 🕷️ **ez-crawl** | Agentic web crawler: LLMs pull structured data out of raw HTML. |
-| 🛡️ [**Nunya VPN**](https://nunya-vpn.com) | An honest, open-source VPN client for macOS, Windows and Linux. |
 | 🗣️ [**Persian TTS**](https://tts.jome-farmer.ir) | Transformer TTS that speaks fluent Persian and clones a voice from one sample. |
 | 🌱 **JoME** | Smart irrigation system, sensors to cloud. |
 | 🎮 **khiar-ware** | An external CS:GO cheat, written to learn how game memory and anti-cheat really work. |
