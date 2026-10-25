@@ -36,7 +36,7 @@ Born in **Pariz**, a village high in the mountains. Grew up next to a mechanic's
 | 🔲 [**mojo-spartan6-projects**](https://github.com/mralinp/mojo-spartan6-projects) | Verilog on a Spartan-6 FPGA, built and flashed from a Mac. |
 | 📄 [**latex-academic-template**](https://github.com/mralinp/latex-academic-template) | `create-react-app` for LaTeX: one command, Dockerized, no TeX install. |
 | 🗣️ [**Persian TTS**](https://tts.jome-farmer.ir) | Transformer TTS that speaks fluent Persian and clones a voice from one sample. |
-| 🌱 **JoME** | Smart irrigation system, sensors to cloud. |
+| 🌱 [**JoME**](https://jome-farmer.ir) | Smart irrigation, hardware to cloud: ESP32/FreeRTOS controller that runs zones and programs on its own, measures litres per run with a flow sensor, React + Capacitor app over Bluetooth/USB, FastAPI + MQTT backend. [Try the demo](https://app.jome-farmer.ir). |
 | 🎮 **khiar-ware** | An external CS:GO cheat, written to learn how game memory and anti-cheat really work. |
 | 🌸 **saffron-cut** | Vision model that tells a robot arm where and at what angle to cut each saffron flower. |
 
