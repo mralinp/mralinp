@@ -28,13 +28,13 @@ Born in **Pariz**, a village high in the mountains. Grew up next to a mechanic's
 
 | Project | What it does |
 |---|---|
+| 🕷️ [**ez-crawl**](https://ezcrawl.ir) · **live** | *Turn any website into data.* No-code visual pipelines: fetch pages, let an LLM extract records (null, never guesses), search and export to CSV/JSON. Claude Code and Codex can build and run pipelines for you. |
 | 🛜 [**wrtforge**](https://github.com/mralinp/wrtforge) | Paste one command, get a clean OpenWrt with Passwall2 / WireGuard / OpenVPN / SSH tunnel and a recovery slot. One static binary over SSH. |
 | 📡 [**zlt-x28-openwrt**](https://github.com/mralinp/zlt-x28-openwrt) | A modern, recovery-first OpenWrt for the ZLT X28 5G CPE, tested on a real unit. |
 | 🧬 [**tdsc-abus2023-pytorch**](https://github.com/mralinp/tdsc-abus2023-pytorch) | PyTorch `Dataset` for the TDSC-ABUS 2023 challenge (3D breast ultrasound). On PyPI. |
 | 🩻 [**abus-classification**](https://github.com/mralinp/abus-classification) | Breast lesion classification from the *shape* of the lesion surface: Laplace–Beltrami spectra + dual-path CNN. |
 | 🔲 [**mojo-spartan6-projects**](https://github.com/mralinp/mojo-spartan6-projects) | Verilog on a Spartan-6 FPGA, built and flashed from a Mac. |
 | 📄 [**latex-academic-template**](https://github.com/mralinp/latex-academic-template) | `create-react-app` for LaTeX: one command, Dockerized, no TeX install. |
-| 🕷️ **ez-crawl** | Agentic web crawler: LLMs pull structured data out of raw HTML. |
 | 🗣️ [**Persian TTS**](https://tts.jome-farmer.ir) | Transformer TTS that speaks fluent Persian and clones a voice from one sample. |
 | 🌱 **JoME** | Smart irrigation system, sensors to cloud. |
 | 🎮 **khiar-ware** | An external CS:GO cheat, written to learn how game memory and anti-cheat really work. |
